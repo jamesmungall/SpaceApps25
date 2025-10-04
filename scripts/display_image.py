@@ -37,4 +37,8 @@ def j_display_image(filename):
     ui.display_image(1, os.path.abspath(filename), 0.0, 0.0)
 
   # Example usage
+ui.remove_all_objects()
     # j_display_image("Hubble_Arp105.jpg")
+gateway.shutdown()
+
+
