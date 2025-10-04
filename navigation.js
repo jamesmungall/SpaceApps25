@@ -3,7 +3,7 @@ function injectCommonHtml() {
         <header>
         <nav>
     <a href="index.html">Home</a>
-    <a href="gaia_test_3.py">gaia_test_3.py</a>
+    <a href="gaia_test_3.txt">gaia_test_3.txt</a>
     </nav>
         </header>
     `;
