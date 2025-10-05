@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  font-size: 2em; /* twice normal size */
 }
 pre {
   background-color: #fff;
