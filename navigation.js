@@ -4,6 +4,7 @@ function injectCommonHtml() {
         <nav>
     <a href="index.html">Home</a>
     <a href="videos.html">Videos</a>
+    <a href="scripts.html">Scripts</a>
     <a href="gaia_test_3.txt">gaia_test_3.txt</a>
     </nav>
         </header>
