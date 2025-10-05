@@ -8,13 +8,19 @@ This gives you a sense of perspective as to where these amazing images fit into 
 -------------
 Find the main scripts in scripts>j_scripts:
 main.py -> sets up the connection with the Gaia Sky application and executes our functions
+
 j_resize_image_file.py -> resizes the image so that if it is too large to fit on the screen, it is compressed
+
 j_border_image_file.py -> creates a border around the given image
+
 j_get_image_file.py -> gets the image from the given url
+
 j_read_csv_file.py -> parses a csv into rows getting the image name,url,ra,dec and 3 captions
 
+
 A test csv file is called CelestialData.csv with 3 rows for the Triangulum Galaxy (M33), the Horsehead Nebula (B33) and the Whirlpool Galaxy (M51).
-------------
+
+--------------
 Go to https://jamesmungall.github.io/SpaceApps25/ for more information.
 
 
